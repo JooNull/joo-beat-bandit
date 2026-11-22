@@ -30,4 +30,4 @@ This repository is intended for educational purposes only. It contains writeups 
 
 ## Acknowledgments
 
-- [OverTheWire](https://overthewire.org/) — For providing the Bandit wargame.
+- [OverTheWire](https://overthewire.org/wargames/bandit/) — For providing the Bandit wargame.
